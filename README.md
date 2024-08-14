@@ -3,8 +3,9 @@
 </div>
 <div id="badges">
  
-  <a href="t.me/arizonadream">
+  <a href="t.me/snowdiamonds">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/>
+    <div id="header" align="center">
   </a>
  
 </div>
