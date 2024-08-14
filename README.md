@@ -11,7 +11,6 @@
 </div>
 <div id="badges" align="center">
  
-  <a 
   <img src="https://komarev.com/ghpvc/?username=Kaifogolik-github-username&style=flat-square&color=blue" alt=""/>
     
   </a>
