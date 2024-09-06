@@ -25,7 +25,7 @@
 
 ### :man_technologist: About Me :
 
-- :telescope: Познаю мир бека.
+- :telescope: java моё всё 
 
 - :seedling: Изучанию новые для себя и мира технологии.
 
